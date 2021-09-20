@@ -16,4 +16,6 @@
 
 ## Screenshots
 
+https://github.com/kartikkhullar/face-detection-thapar/blob/main/t1.png
 
+https://github.com/kartikkhullar/face-detection-thapar/blob/main/t2.png
